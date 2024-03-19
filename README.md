@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Brenn0dv
-- 👀 I’m interested in schedule
+- 👀 I’m interested in HTML
 - 🌱 I’m currently learning HTML and CSS
